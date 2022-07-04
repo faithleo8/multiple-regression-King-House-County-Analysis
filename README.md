@@ -1,1 +1,0 @@
-# multiple-regression-King-House-County-Analysis
